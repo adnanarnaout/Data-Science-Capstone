@@ -36,7 +36,8 @@ tokenize_and_filter_profanity <- function(file_path, profanity_list) {
 
 # Use the Function
 ```{r}
-blogs <- read("en_US.blogs.txt")
+
+
 
 ```
 
